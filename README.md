@@ -6,12 +6,17 @@ Em caso da matriz ser muito grande não é vantajoso, em termos de memória, arm
 dados, até porque a maioria são zeros. Então o objetivo do trabalho é criar uma lista encadeada e
 armazenar somente os dados diferentes de zero, bem como a linha e a coluna onde esses dados
 estão localizados.
+
+```js
 float dado;
 int lin, int col;
 float dado;
 int lin, int col;
 float dado;
-int lin, int col;Mas, no entanto, o programa deverá imprimir na saída a matriz inteira, tanto os dados diferentes de
+int lin, int col;
+``` 
+
+Mas, no entanto, o programa deverá imprimir na saída a matriz inteira, tanto os dados diferentes de
 zero como os zeros.
 O programa deverá ser formado pela seguinte struct:
 
@@ -38,10 +43,11 @@ dados diferentes de zero;
 • Uma função que imprime todos os dados da matriz, inclusive os zeros;
 • Uma função que imprime os elementos da diagonal principal, inclusive os zeros caso
 existam.
-Observações:
-• O usuário pode entrar com quantas matrizes desejar.
-• O usuário deve informar a dimensão de cada matriz.
-• O usuário poderá fazer quantas operações desejar com as matrizes.
-• Exemplo: MA * MB + MC - MD
-• Considerar as regras de operações com matrizes para implementar a soma, subtração,
+
+### Observações:
+- O usuário pode entrar com quantas matrizes desejar.
+- O usuário deve informar a dimensão de cada matriz.
+- O usuário poderá fazer quantas operações desejar com as matrizes.
+- Exemplo: MA * MB + MC - MD
+- Considerar as regras de operações com matrizes para implementar a soma, subtração,
 multiplicação, transposta e diagonal principal de matrizes.
