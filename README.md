@@ -24,15 +24,14 @@ O programa deverá ser formado pela seguinte struct:
     }Matriz_Esparsa;
 ``` 
 E pelas seguintes funções:
-•
-Uma função que faz a alocação de memória para cada nodo criado para uma lista
+- Uma função que faz a alocação de memória para cada nodo criado para uma lista
 encadeada;
-• Uma função que insere na lista encadeada um nodo alocado;
-• Uma função que busca os dados em uma lista encadeada;
-• Uma função que libera da memória uma lista encadeada;
-• Uma função que lê os dados da matriz, via teclado, e inseri na lista encadeada somente os
+- Uma função que insere na lista encadeada um nodo alocado;
+- Uma função que busca os dados em uma lista encadeada;
+- Uma função que libera da memória uma lista encadeada;
+- Uma função que lê os dados da matriz, via teclado, e inseri na lista encadeada somente os
 dados diferentes de zero;
-• Uma função que soma duas matrizes;
+- Uma função que soma duas matrizes;
 • Uma função que subtrai duas matrizes;
 • Uma função que multiplica duas matrizes;
 • Uma função que gera a matriz transposta;
