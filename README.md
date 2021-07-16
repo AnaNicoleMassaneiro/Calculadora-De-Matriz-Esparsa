@@ -7,7 +7,7 @@ dados, até porque a maioria são zeros. Então o objetivo do trabalho é criar 
 armazenar somente os dados diferentes de zero, bem como a linha e a coluna onde esses dados
 estão localizados.
 
-```js
+```c
 float dado;
 int lin, int col;
 float dado;
@@ -20,7 +20,7 @@ Mas, no entanto, o programa deverá imprimir na saída a matriz inteira, tanto o
 zero como os zeros.
 O programa deverá ser formado pela seguinte struct:
 
-```js
+```c
     typedef struct nodo
     {
         float dado;
