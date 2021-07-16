@@ -37,11 +37,11 @@ encadeada;
 - Uma função que lê os dados da matriz, via teclado, e inseri na lista encadeada somente os
 dados diferentes de zero;
 - Uma função que soma duas matrizes;
-• Uma função que subtrai duas matrizes;
-• Uma função que multiplica duas matrizes;
-• Uma função que gera a matriz transposta;
-• Uma função que imprime todos os dados da matriz, inclusive os zeros;
-• Uma função que imprime os elementos da diagonal principal, inclusive os zeros caso
+- Uma função que subtrai duas matrizes;
+- Uma função que multiplica duas matrizes;
+- Uma função que gera a matriz transposta;
+- Uma função que imprime todos os dados da matriz, inclusive os zeros;
+- Uma função que imprime os elementos da diagonal principal, inclusive os zeros caso
 existam.
 
 ### Observações:
