@@ -28,7 +28,7 @@ O programa deverá ser formado pela seguinte struct:
         struct nodo *prox;
     }Matriz_Esparsa;
 ``` 
-E pelas seguintes funções:
+### E pelas seguintes funções:
 - Uma função que faz a alocação de memória para cada nodo criado para uma lista
 encadeada;
 - Uma função que insere na lista encadeada um nodo alocado;
