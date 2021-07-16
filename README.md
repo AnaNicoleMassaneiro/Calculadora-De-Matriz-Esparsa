@@ -1,4 +1,5 @@
-Criar um programa em C que manipule matrizes esparsas, utilizando lista linear encadeada.
+### Programa em C que manipula matrizes esparsas, utilizando lista linear encadeada.
+
 OBS: Uma matriz é considerada esparsa quando a maioria dos seus dados são zeros.
 
 Em caso da matriz ser muito grande não é vantajoso, em termos de memória, armazenar todos os
