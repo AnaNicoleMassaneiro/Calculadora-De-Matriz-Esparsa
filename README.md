@@ -13,13 +13,15 @@ float dado;
 int lin, int col;Mas, no entanto, o programa deverá imprimir na saída a matriz inteira, tanto os dados diferentes de
 zero como os zeros.
 O programa deverá ser formado pela seguinte struct:
+
+```js
     typedef struct nodo
     {
         float dado;
         int lin, col;
         struct nodo *prox;
     }Matriz_Esparsa;
-    
+``` 
 E pelas seguintes funções:
 •
 Uma função que faz a alocação de memória para cada nodo criado para uma lista
